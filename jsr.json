@@ -1,0 +1,6 @@
+{
+  "name": "@fishenv/di",
+  "version": "0.0.2",
+  "license": "MIT",
+  "exports": "./di.ts"
+}
